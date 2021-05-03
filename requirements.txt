@@ -2,4 +2,3 @@ requests
 bs4
 lxml
 pypiwin32
-win32com.client
