@@ -46,7 +46,7 @@ def index():
    return "Sent"
 
 if __name__ == '__main__':
-   if float(a)<60.0:
+   if float(a)>60.0:
        app.run(debug = True)
    else:
        exit(0)
