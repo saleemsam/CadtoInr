@@ -1,6 +1,5 @@
 requests
 bs4
 lxml
-pywin32==227
 flask
 flask_mail
