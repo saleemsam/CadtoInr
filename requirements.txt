@@ -1,5 +1,5 @@
 requests
 bs4
 lxml
-pythoncom
+pywin32==227
 win32com.client
