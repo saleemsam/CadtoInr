@@ -1,0 +1,5 @@
+requests
+bs4
+lxml
+pythoncom
+win32com.client
